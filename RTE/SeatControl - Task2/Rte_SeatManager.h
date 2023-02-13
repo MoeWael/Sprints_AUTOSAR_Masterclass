@@ -1,0 +1,11 @@
+#ifndef RTE_SEAT_MANAGER_H
+#define RTE_SEAT_MANAGER_H
+
+#define MULTI_STATE_BTN_INIT   0
+#define MULTI_STATE_BTN_MINUS -1
+#define MULTI_STATE_BTN_PLUS   1
+
+#define MOTOR_STEP_PLUS   10
+#define MOTOR_STEP_MINUS -10
+
+#endif
